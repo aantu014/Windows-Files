@@ -1,0 +1,2 @@
+HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\DataCollection
+AllowTelemetry = 0  (32-bit DWORD)
