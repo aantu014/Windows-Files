@@ -1,0 +1,17 @@
+# Anonymize local IPs exposed by WebRTC: 						Enabled
+# Extension Content Verification: 							Enforce Strict
+# Reduce default 'referer' header granularity: 						Enabled
+# Load Media Router Component Extension: 						Disabled
+# Connect to Cast devices on all IP addresses: 						Disabled
+# Block scripts loaded via document.write: 						Enabled
+# Mark non-secure origins as non-secure: 						Enabled (mark as active dangerous)
+# Enable GPU AppContainer Lockdown: 							Enabled
+# Treat risky downloads over insecure connections as active mixed content: 		Enabled
+# Enable IE Integration: 								Disabled
+# Strict-Origin-Isolation: 								Enabled
+# SameSite by default cookie: 								Enabled
+# Cookies without SameSite must be secure: 						Enabled
+# Microsoft Edge tracking prevention: 							Enabled
+# Experimental Tracking Prevention Features: 						Enabled
+# Enable SmartScreen Model Evaluation							Disabled
+# Microsoft Defender SmartScreen AppRep support						Disabled
