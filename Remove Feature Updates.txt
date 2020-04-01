@@ -1,0 +1,7 @@
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\WindowsUpdate\UX\Settings
+
+Add the following DWORD Values (32-bit value): "Decimal Values"
+
+    BranchReadinessLevel 20
+    DeferFeatureUpdatesPeriodInDays 365
+    DeferQualityUpdatesPeriodInDays 4
