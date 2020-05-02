@@ -1,0 +1,7 @@
+//This is only temporary when installing docker or any other program that needs another edition of Windows.
+
+
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion
+
+EditionID: Core --> Professional
+ProductName: Windows 10 Home --> Windows 10 Pro
