@@ -1,5 +1,5 @@
 //This is only temporary when installing docker or any other program that needs another edition of Windows.
-
+// Revert these keys after installing software
 
 Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion
 
