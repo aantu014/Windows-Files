@@ -2,6 +2,18 @@ HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\DataCollection
 AllowTelemetry = 0  (32-bit DWORD)
 
 
-Task Scheduler disable all tasks
-Application Experience
-Customer Experience Improvement Program
+Task Scheduler "Disable These Tasks"
+\Microsoft\Windows\Application Experience
+  Disable all tasks
+\Microsoft\Windows\Customer Experience Improvement Program
+  Disable all tasks
+\Microsoft\Windows\Device Information
+	Device
+\Microsoft\Windows\Feedback\Siuf
+	DmClient
+\Microsoft\Windows\Maintenance
+	WinSAT
+\Microsoft\Windows\Shell
+	FamilySafetyMonitor
+\Microsoft\Windows\Windows Error Reporting
+	QueueReporting
