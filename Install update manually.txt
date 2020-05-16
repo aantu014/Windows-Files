@@ -1,3 +1,3 @@
 expand _f:* “C:"location of .msu"” C:\Temp\
 
-DISM.exe /Online /Add-Package /PackagePath:c:\Temp\"updatename".cab
+DISM.exe /Online /Add-Package /PackagePath:C:\Temp\"updatename".cab
