@@ -4,3 +4,4 @@
 **services_startup_config_backup.vbs** Backs up current Windows services configuration.<br />
 **HyperVComponents.bat** Installs the Hyper-V components.<br />
 **Containers_Windows_Feature.bat** Installs Containers.<br />
+**GPM_Install.bat** Installs Group Policy Manager.<br />
