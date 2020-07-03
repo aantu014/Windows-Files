@@ -35,7 +35,6 @@ sc.exe config Eaphost start= disabled
 sc.exe config edgeupdate start= disabled
 sc.exe config edgeupdatem start= disabled
 sc.exe config EFS start= disabled
-sc.exe config EventSystem start= disabled
 sc.exe config fdPHost start= disabled
 sc.exe config FDResPub start= disabled
 sc.exe config fhsvc start= disabled
