@@ -1,0 +1,22 @@
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
+#Right-click the Windows (folder) key, select New, and then click the Key option. Name the new key "WindowsUpdate" and press Enter.
+
+
+#Add the following DWORD Values (32-bit value): "Decimal Values"
+
+    BranchReadinessLevel 20
+    DeferFeatureUpdates
+    DeferFeatureUpdatesPeriodInDays 365
+    DeferQualityUpdates 1
+    DeferQualityUpdatesPeriodInDays 4
+
+
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate
+
+
+# Create new folder Key called "AU".
+
+# Create DWORD (32-bit) Values
+
+   NoAutoUpdate	1
+
