@@ -1,0 +1,13 @@
+Computer\HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Windows\Explorer
+#If Explorer doesnt exit right click on Exlorer and click New Key
+
+DWORD (32-bit)
+DisableSearchBoxSuggestions=1
+
+
+HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Search
+
+DWORD (32-bit)
+AllowSearchToUseLocation=0
+BingSearchEnabled=0
+CortanaConsent=0
