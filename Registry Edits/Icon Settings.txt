@@ -1,5 +1,10 @@
 //Desktop Icon Spacing 
 Computer\HKEY_CURRENT_USER\Control Panel\Desktop\WindowMetrics
 
+IconSpacing=-1040
+IconVerticalSpacing=-1040
+
+
 //Desktop Icon Size
 Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\Shell\Bags\1\Desktop
+IconSize=18
