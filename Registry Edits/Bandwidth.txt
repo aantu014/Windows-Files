@@ -1,0 +1,7 @@
+Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft
+
+New Key
+Psched
+
+New DWORDm(32-bit)
+NonBestEffortLimit
