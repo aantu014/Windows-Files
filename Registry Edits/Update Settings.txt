@@ -8,7 +8,7 @@ Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
     DeferFeatureUpdates 1
     DeferFeatureUpdatesPeriodInDays 365
     DeferQualityUpdates 1
-    DeferQualityUpdatesPeriodInDays 4
+    DeferQualityUpdatesPeriodInDays 25
 
 
 Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate
