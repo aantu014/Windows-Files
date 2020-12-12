@@ -1,7 +1,1 @@
-Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft
-
-New Key
-Psched
-
-New DWORDm(32-bit)
-NonBestEffortLimit
+REG ADD  “HKLM\Software\policies\Microsoft\Psched” /v ”NonBestEffortLimit” /t REG_DWORD /d “0” /f
